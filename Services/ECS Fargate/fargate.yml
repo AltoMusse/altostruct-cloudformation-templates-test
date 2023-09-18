@@ -8,8 +8,8 @@ Resources:
     Type: AWS::ECS::Cluster
     Properties:
       ClusterName: <Name>
-
-Outputs:
+dsa+dasp+
+Outputs:dspaådpåasd
   Cluster:
     Description: The ID of the cluster created
     Value: !Ref Cluster
